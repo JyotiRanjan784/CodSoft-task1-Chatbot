@@ -159,7 +159,7 @@ def main():
 
     # --- MAIN CHAT INTERFACE ---
     st.title("🤖 CodBot: Your Friendly AI Assistant")
-    st.write("Created by Mrutyunjay during the CodSoft AI Internship")
+    st.write("Created by Jyoti during the CodSoft AI Internship")
     st.markdown("---")
 
     # Display chat messages from history on app rerun. [7]
@@ -185,4 +185,5 @@ def main():
         st.session_state.messages.append({"role": "assistant", "content": response})
 
 if __name__ == "__main__":
+
     main()
