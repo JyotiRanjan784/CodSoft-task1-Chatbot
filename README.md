@@ -1,6 +1,6 @@
 # 🤖 CodBot: A Simple Rule-Based Chatbot with a Streamlit UI
 
-Welcome to **CodBot**, a friendly and simple rule-based chatbot built with Python. This project was created by **Mrutyunjay** as part of the **CodSoft AI Internship**.
+Welcome to **CodBot**, a friendly and simple rule-based chatbot built with Python. This project was created by **jyoti** as part of the **CodSoft AI Internship**.
 
 The chatbot uses regular expressions to recognize user input and provide predefined responses. The user interface is built with Streamlit to create a clean and interactive web-based chat experience.
 
@@ -25,7 +25,7 @@ To run this chatbot on your local machine, please follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/JyotiRanjan784/CodSoft.git
+    git clone https://github.com/JyotiRanjan784/CodSoft-task1-Chatbot.git
     cd codsoft
     ```
 
@@ -51,4 +51,5 @@ Once the installation is complete, you can start the chatbot by running the foll
 
 ```bash
 streamlit run chatbot_app.py
+
 
